@@ -1,2 +1,2 @@
 "# My Project" 
-"Some content" 
+"Ahoj" 
